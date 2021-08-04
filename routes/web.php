@@ -23,3 +23,4 @@ Route::get('contact','App\http\Controllers\PagesController@getContact');
 Route::get('/', [App\Http\Controllers\PagesController::class, 'getIndex']);
 
 
+
