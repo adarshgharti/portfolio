@@ -20,4 +20,5 @@
         </div>
     </div>
 </div>
+home .blade php
 @endsection
